@@ -13,6 +13,8 @@ body {
   height: 49px;
   border-radius: 10px;
   background-color: #ffd200;
+  border: none
+
 }
 
 /*импрт стилей шапки */
